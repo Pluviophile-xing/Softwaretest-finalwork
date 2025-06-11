@@ -1,9 +1,9 @@
 # 数据集
-[construct_data](https://github.com/Pluviophile-xing/Software-testing-finalwork/tree/master/construct_data) 是无故障阶段的数据  
-[rca_data](https://github.com/Pluviophile-xing/Software-testing-finalwork/tree/master/rca_data) 是故障阶段的数据  
+[construct_data](https://github.com/Pluviophile-xing/Softwaretest-finalwork/tree/master/construct_data) 是无故障阶段的数据  
+[rca_data](https://github.com/Pluviophile-xing/Softwaretest-finalwork/tree/master/rca_data) 是故障阶段的数据  
 # 运行结果日志
-[运行结果日志数据](https://github.com/Pluviophile-xing/Software-testing-finalwork/blob/master/log/2025-06-07_nezha.log)  
-![image](https://github.com/Pluviophile-xing/Software-testing-finalwork/blob/master/result.png)   
+[运行结果日志数据](https://github.com/Pluviophile-xing/Softwaretest-finalwork/blob/master/log/2025-06-07_nezha.log)  
+![image](https://github.com/Pluviophile-xing/Softwaretest-finalwork/blob/master/result.png)   
 # 分工
 1、微服务部署与复现 及过程报告	 邢广威	  
 2、采集与数据处理 及过程报告	 陈栎侃    
